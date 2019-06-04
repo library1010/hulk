@@ -5,6 +5,10 @@ import java.time.ZoneId;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
 import org.junit.Test;
+import hulk.banner.android.AndroidImage;
+import hulk.banner.android.SomeAndroidComponent;
+import hulk.banner.banner_content.SimpleBannerContent;
+import hulk.banner.banner_content.SomeAndroidBannerContent;
 
 public class BannerFactoryTest {
 

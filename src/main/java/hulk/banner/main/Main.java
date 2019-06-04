@@ -1,10 +1,12 @@
-package hulk.banner;
+package hulk.banner.main;
 
 import java.text.ParseException;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
+import hulk.banner.BannerFactory;
+import hulk.banner.banner_content.SimpleBannerContent;
 
 public class Main {
 

@@ -1,4 +1,7 @@
-package hulk.banner;
+package hulk.banner.banner_content;
+
+import hulk.banner.android.AndroidImage;
+import hulk.banner.android.SomeAndroidComponent;
 
 public class SomeAndroidBannerContent implements BannerContent {
 

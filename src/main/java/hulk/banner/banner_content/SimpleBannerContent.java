@@ -1,4 +1,4 @@
-package hulk.banner;
+package hulk.banner.banner_content;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

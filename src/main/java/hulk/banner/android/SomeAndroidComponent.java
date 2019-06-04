@@ -1,4 +1,4 @@
-package hulk.banner;
+package hulk.banner.android;
 
 public class SomeAndroidComponent {
   

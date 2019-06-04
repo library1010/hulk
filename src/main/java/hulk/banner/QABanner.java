@@ -2,6 +2,7 @@ package hulk.banner;
 
 import java.util.Date;
 import java.util.concurrent.locks.ReentrantLock;
+import hulk.banner.banner_content.BannerContent;
 
 public class QABanner extends Banner {
 
